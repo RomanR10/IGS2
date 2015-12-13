@@ -55,7 +55,6 @@ public class ProceduralGenerator : MonoBehaviour
             //We only want the stuff directly around us to do anything
             UpdateVisibleSectors();
         }
-
     }
 
     void Generate(int sector)
